@@ -1,2 +1,2 @@
 # catuserbot flask
-script to deploy cat userbot with flask & gunicorn
+script to deploy cat with flask & gunicorn
