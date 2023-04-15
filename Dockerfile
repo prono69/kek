@@ -1,4 +1,4 @@
-FROM debian:11
+FROM helowarld/bookworm:v2
 ARG DEBIAN_FRONTEND=noninteractive
 ARG USER=root
 USER $USER
